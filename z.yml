@@ -1,0 +1,15 @@
+---
+description: Add support for RedBear Blend 2
+fullname: board.zerynth.redbear_blend2
+info:
+    board: Redbear Blend BLE 2
+    chip_manufacturer: Nordic
+    device: nrf52832
+    family_type: ARM Cortex M4
+keywords:
+- redbear
+- ble
+- nordic
+- nfc
+title: RedBear Blend 2 Support Package
+...
